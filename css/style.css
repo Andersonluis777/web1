@@ -40,12 +40,11 @@ tr{
 }
 table{
     margin-right: auto;
-    margin-left: auto;
+    margin-left: 50%;
     text-align: center;
     border-collapse: collapse;
     margin-bottom: 50em;
     width: 70%;
-    left: 50%;
     background: #fff;
 }
 }
