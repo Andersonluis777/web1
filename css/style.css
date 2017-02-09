@@ -6,9 +6,11 @@
   font: 75%/1.6 "Myriad Pro", Frutiger, "Lucida Grande", "Lucida Sans", "Lucida Sans Unicode", Verdana, sans-serif;
 }
 table {
+  margin-right:auto;
+  margin-left:auto;
   border-collapse: collapse;
   width: 50em;
-  border: 1px solid #666;
+  border: 6px solid #666;
 }
 thead {
   background: #ccc url(http://www.devfuria.com.br/html-css/tabelas/bar.gif) repeat-x left center;
@@ -16,7 +18,7 @@ thead {
   border-bottom: 1px solid #a5a5a5;
 }
 tr:hover {
-  background-color:#3d80df;
+  background-color:#00FF00;
   color: #fff;
 }
 thead tr:hover {
