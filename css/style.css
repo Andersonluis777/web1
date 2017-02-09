@@ -105,7 +105,7 @@ tbody tr:hover {
 		}
 .sticky-wrap td,
 .sticky-wrap th {
-	box-sizing: border-box;
+	box-sizing: border-box
 }
 
 /* Not needed for sticky header/column functionality */
