@@ -3,8 +3,12 @@ h1{
   color: black;
 }
 h2{
-	text-align: left;
+  text-align: left;
   color: black;
+}
+if{
+	text-align: center;
+	
 }
 
 
@@ -20,7 +24,7 @@ h2{
 }
 .component {
 	line-height: 1.5em;
-	margin: 0 auto;
+	margin: 25em;
 	padding: 2em 0 3em;
 	width: 90%;
 	max-width: 1000px;
