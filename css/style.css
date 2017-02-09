@@ -1,5 +1,5 @@
 main {
-	width: 200px; 
+	width: 600px; 
 }
 
 h1{
@@ -43,8 +43,8 @@ table{
     margin-left: 25%;
     text-align: center;
     border-collapse: collapse;
-    margin-bottom: 30em;
-    width: 20%;
+    margin-bottom: 10em;
+    width: 70%;
     background: #fff;
 }
 }
