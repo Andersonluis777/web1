@@ -30,8 +30,8 @@ tr{
 	line-height: 1.5em;
 	margin: 0 auto;
 	padding: 2em 0 3em;
-	width: 50%;
-	max-width: 100px;
+	width: 90%;
+	max-width: 1000px;
 	overflow: hidden;
 }
 .component .filler {
@@ -44,7 +44,7 @@ table{
     text-align: center;
     border-collapse: collapse;
     margin-bottom: 50em;
-    width: 70%;
+    width: 50%;
     background: #fff;
 }
 }
@@ -86,7 +86,7 @@ tbody tr:hover {
 	overflow-y: hidden;
 	position: relative;
 	margin: 3em 0;
-	width: 100%;
+	width: 50%;
 }
 .sticky-wrap .sticky-thead,
 .sticky-wrap .sticky-col,
