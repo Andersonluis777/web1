@@ -1,15 +1,17 @@
 main {
-  width: 600px;
-  
+	width: 600px; 
 }
 
 h1{
-  text-align: center;
-  color: black;
+	text-align: center;
+	color: black;
 }
 h2{
-  text-align: left;
-  color: black;
+	text-align: left;
+	color: black;
+}
+tr{
+	text-align: center;
 }
 
 
@@ -39,8 +41,8 @@ h2{
 table {
     text-align: center;
     border-collapse: collapse;
-    margin-bottom: 25em;
-    width: 50%;
+    margin-bottom: 50em;
+    width: 80%;
     background: #fff;
 }
 }
