@@ -1,5 +1,5 @@
 main {
-	width: 600px; 
+	width: 500px; 
 }
 
 h1{
@@ -39,8 +39,8 @@ tr{
 	color: #d3d3d3;
 }
 table{
-    margin-right: 50%;
-    margin-left: 50%;
+    margin-right: 25%;
+    margin-left: 25%;
     text-align: center;
     border-collapse: collapse;
     margin-bottom: 50em;
