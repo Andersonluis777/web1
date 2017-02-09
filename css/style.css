@@ -30,7 +30,7 @@ tr{
 	line-height: 1.5em;
 	margin: 0 auto;
 	padding: 2em 0 3em;
-	width: 500%;
+	width: 50%;
 	max-width: 1000px;
 	overflow: hidden;
 }
@@ -86,7 +86,7 @@ tbody tr:hover {
 	overflow-y: hidden;
 	position: relative;
 	margin: 3em 0;
-	width: 40%;
+	width: 20%;
 }
 .sticky-wrap .sticky-thead,
 .sticky-wrap .sticky-col,
