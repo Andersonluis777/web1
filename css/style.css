@@ -13,7 +13,10 @@ h2{
 tr{
 	text-align: center;
 }
-
+body {
+    background-image: url("https://scontent.fcpv2-2.fna.fbcdn.net/v/t1.0-9/14681627_1208973742492609_8640173476601134505_n.jpg?oh=76bc463110b885f9be748a232a28fa73&oe=593FBD31");
+    background-repeat: no-repeat;
+}
 
 
 /* Component styles */
