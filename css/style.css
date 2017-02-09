@@ -38,7 +38,9 @@ tr{
 	font-family: "Blokk", Arial, sans-serif;
 	color: #d3d3d3;
 }
-table {
+table{
+    margin-right: auto;
+    margin-left: auto;
     text-align: center;
     border-collapse: collapse;
     margin-bottom: 50em;
