@@ -30,7 +30,7 @@ tr{
 	line-height: 1.5em;
 	margin: 0 auto;
 	padding: 2em 0 3em;
-	width: 50%;
+	width: 90%;
 	max-width: 1000px;
 	overflow: hidden;
 }
@@ -115,7 +115,7 @@ tbody tr:hover {
 		}
 .sticky-wrap td,
 .sticky-wrap th {
-	box-sizing: border-box
+	box-sizing: border-box;
 }
 
 /* Not needed for sticky header/column functionality */
