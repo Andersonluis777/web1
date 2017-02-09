@@ -39,12 +39,12 @@ tr{
 	color: #d3d3d3;
 }
 table{
-    margin-right: 25%;
+    margin-right: 50%;
     margin-left: 25%;
     text-align: center;
     border-collapse: collapse;
     margin-bottom: 10em;
-    width: 70%;
+    width: 50%;
     background: #fff;
 }
 }
