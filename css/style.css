@@ -4,6 +4,7 @@ main {
 
 h1{
 	text-align: center;
+	word-spacing: 8px;
 	color: black;
 }
 h2{
