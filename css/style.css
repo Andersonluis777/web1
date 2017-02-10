@@ -49,12 +49,12 @@ body{
 	color: #d3d3d3;
 }
 table{
-    margin-right:90%;
-    margin-left: 50%;
+    margin-right: auto;
+    margin-left: auto;
     text-align: center;
     border-collapse: collapse;
     margin-bottom: 50em;
-    width: 80%;
+    width: auto;
     background: #fff;
 }
 }
