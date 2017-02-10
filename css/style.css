@@ -40,8 +40,8 @@ body{
 	line-height: 1.5em;
 	margin: 0 auto;
 	padding: 2em 0 3em;
-	width: 50%;
-	max-width: 70px;
+	width: auto;
+	max-width: auto;
 	overflow: hidden;
 }
 .component .filler {
@@ -53,7 +53,7 @@ table{
     margin-left: auto;
     text-align: center;
     border-collapse: collapse;
-    margin-bottom: 50em;
+    margin-bottom: 20em;
     width: auto;
     background: #fff;
 }
