@@ -96,7 +96,7 @@ tbody tr:hover {
 	overflow-y: hidden;
 	position: relative;
 	margin: 3em 0;
-	width: 100%;
+	width: 80%;
 }
 .sticky-wrap .sticky-thead,
 .sticky-wrap .sticky-col,
