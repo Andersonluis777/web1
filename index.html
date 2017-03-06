@@ -2,7 +2,22 @@
 layout: default
 ---
 <h1> IFPB - Campus Guarabira </h1>
+
+<div class="dropdown">
+<button onclick="myFunction()" class="dropbtn">Dropdown</button>
+  <div id="myDropdown" class="dropdown-content">
+    <input type="text" placeholder="Search.." id="myInput" onkeyup="filterFunction()">
+	{% for profz in site.data.prof.professores %}
+		<p onclick="botao('{{profz}}')">{{professorb}} </p>
+	{% endfor %}
+  </div>
+</div>
 {% for proff in site.data.prof.professores %}
+	{% if proff == "Todos" %}
+		<div class="some" id="{{proff}}" style="display: block">
+	{% else %}
+		<div class="some" id="{{proff}}" style="display: none">
+	{% endif %}
 	<h1>{{proff}}</h1>
 	{% for curso in site.data.horarios.cursos %}
 		<h1>{{curso.nome}}</h1>    
