@@ -25,7 +25,11 @@ layout: default
 				<td colspan="5"> {{linha.aulas[0].disciplina}} </td>
 			 {% else %}
 				 {% for aula in linha.aulas %}
-				 <td>{{aula.disciplina}} <br/> {{aula.professor}}</td>
+			 		{% if proff == aula.professor or aula.professor == "Todos" %}
+				 		<td>{{aula.disciplina}} <br/> {{aula.professor}}</td>
+			 		{% else %}
+			 			<td> <br/> </td>
+			 		{% endif %}
 				 {% endfor %}
 			 {% endif %}
 		</tr>
